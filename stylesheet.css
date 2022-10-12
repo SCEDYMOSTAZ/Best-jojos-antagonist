@@ -1,0 +1,41 @@
+body {
+    background-color:aquamarine;
+    }
+
+    img{
+    border-radius: 0%;
+    width: 45%;
+    height: 45%;
+    border-width: 1px;
+    border-style: solid;    
+    border-color:aquamarine;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#header {
+    border-style: groove;    
+    border-color:darkblue;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#list {
+    border-width: 1px;
+    border-style: groove;    
+    border-color:darkslateblue;
+    padding: 15px;
+    margin-left: 35%;
+}
+
+#navlinks {
+    position:fixed;
+}
+
+#footer {
+    border-style: groove;    
+    border-color:darkblue;
+    margin-left: 25%;
+    margin-right: 25%;
+}
